@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hey! 👋
+
+I'm Parjanya, a third year student learning applied math and computer science at UC Davis 🐮. Feel free to look around my profile and check out some of my personal projects!
+
+
 
 <!--
 **pbrahmac/pbrahmac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
