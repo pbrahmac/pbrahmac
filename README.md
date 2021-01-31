@@ -22,15 +22,18 @@ I'm Parjanya, a third year student learning **computer science** and **applied m
     <img align="center" alt="MySQL" width="50px" src="./images/mysql-original.svg" />
     <img align="center" alt="Flask" width="50px" src="./images/flask-original.svg" />
     <img align="center" alt="NodeJS" width="50px" src="./images/nodejs-original-wordmark.svg" />
+    <img align="center" alt="Express" width="50px" src="./images/express-original.svg" />
 </div>
 
 <br />
 
 #### Other languages / tools 🛠
-<img align="center" alt="Python" width="50px" src="./images/python-original.svg" />
-<img align="center" alt="C++" width="50px" src="./images/cplusplus-line.svg" />
-<img align="center" alt="Java" width="50px" src="./images/java-original-wordmark.svg" />
-<img align="center" alt="Git" width="50px" src="./images/git-original.svg" />
+<div>
+    <img align="center" alt="Python" width="50px" src="./images/python-original.svg" />
+    <img align="center" alt="C++" width="50px" src="./images/cplusplus-line.svg" />
+    <img align="center" alt="Java" width="50px" src="./images/java-original-wordmark.svg" />
+    <img align="center" alt="Git" width="50px" src="./images/git-original.svg" />
+</div>
 
 <!--
 **pbrahmac/pbrahmac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
