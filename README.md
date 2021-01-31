@@ -5,7 +5,6 @@ I'm Parjanya, a third year student learning **computer science** and **applied m
 ## Languages and Tools
 
 #### Front End Development 🖥
-<!-- ![html5](images/html5-original-wordmark.svg) ![css3](images/css3-original-wordmark.svg) -->
 <div>
     <img align="center" alt="HTML5" width="50px" src="./images/html5-original-wordmark.svg" />
     <img align="center" alt="CSS3" width="50px" src="./images/css3-original-wordmark.svg" />
