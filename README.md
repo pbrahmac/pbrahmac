@@ -5,27 +5,32 @@ I'm Parjanya, a third year student learning **computer science** and **applied m
 ## Languages and Tools
 
 #### Front End Development 🖥
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<!-- ![html5](images/html5-original-wordmark.svg) ![css3](images/css3-original-wordmark.svg) -->
+<div>
+    <img align="center" alt="HTML5" width="50px" src="./images/html5-original-wordmark.svg" />
+    <img align="center" alt="CSS3" width="50px" src="./images/css3-original-wordmark.svg" />
+    <img align="center" alt="Bootstrap" width="50px" src="./images/bootstrap-plain.svg" />
+    <img align="center" alt="JavaScript" width="50px" src="./images/javascript-original.svg" />
+    <img align="center" alt="React" width="50px" src="./images/react-original.svg" />
+</div>
 
 <br />
 
 #### Backend Development 🧠
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
-<img align="left" alt="NodeJS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<div>
+    <img align="center" alt="Docker" width="50px" src="./images/docker-original.svg" />
+    <img align="center" alt="MySQL" width="50px" src="./images/mysql-original.svg" />
+    <img align="center" alt="Flask" width="50px" src="./images/flask-original.svg" />
+    <img align="center" alt="NodeJS" width="50px" src="./images/nodejs-original-wordmark.svg" />
+</div>
 
 <br />
 
 #### Other languages / tools 🛠
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="center" alt="Python" width="50px" src="./images/python-original.svg" />
+<img align="center" alt="C++" width="50px" src="./images/cplusplus-line.svg" />
+<img align="center" alt="Java" width="50px" src="./images/java-original-wordmark.svg" />
+<img align="center" alt="Git" width="50px" src="./images/git-original.svg" />
 
 <!--
 **pbrahmac/pbrahmac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
